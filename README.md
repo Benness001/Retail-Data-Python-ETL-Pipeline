@@ -26,10 +26,4 @@ The project follows best practices in data engineering, including clear separati
 - CSV Files
 
 ## Project Structure
-python-etl-pipeline/
-├── data/
-├── etl/
-├── images/
-├── requirements.txt
-├── README.md
 ![ETL Project Structure](images/etl_project_structure.png)
